@@ -2,37 +2,34 @@
 
 <dl>
 <dt>1995-2002</dt>
-<dd>[Carl-von-Ossietzky-Gymnasium](https://cvo.berlin/) in
-  [Berlin](HC82+M3 Berlin, Germany), we could choose two main subjects
-  for in-depth study, mine were Biology and Physics.
+<dd><a href="https://cvo.berlin/">Carl-von-Ossietzky-Gymnasium</a> in
+  Berlin (HC82+M3 Berlin, Germany). We could choose two main subjects
+  for in-depth study, mine were <em>Biology</em> and <em>Physics</em>.
 </dd>
 <dt>2002–2008</dt>
-<dd>Studied [Physics](https://www.physik.hu-berlin.de/) at
-  [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/en). The
-  Science Campus is in [Berlin-Adlershof](CGMH+4V Berlin,
-  Germany). There I obtained my _Diploma_ (grade: _good_).
-</dl>
+<dd>Studied <a href="https://www.physik.hu-berlin.de/">Physics</a> at
+  <a href="https://www.hu-berlin.de/en">Humboldt-Universität zu Berlin</a>. The
+  Science Campus is in Berlin-Adlershof (CGMH+4V Berlin, Germany). 
+  There I obtained my <em>Diploma</em> (grade: <em>good</em>).
+</dd>
 <dt>2009-2020</dt>
-<dd>Doctoral studies at the [SimTech Graduate
-  School](https://www.simtech.uni-stuttgart.de/), within the
-  [University of Stuttgart](https://www.uni-stuttgart.de/). I worked
-  as a teaching assistent and did research in the area of _systems
-  biology_ within the [Institute for Systems Theory and Automatic
-  Control](https://www.ist.uni-stuttgart.de/). I obtained the title of
-  _Doktor der Ingenieurwissenschaften_ (Dr.-Ing.), which is roughly
-  equivalent to a PhD.
+<dd>Doctoral studies at the <a href="https://www.simtech.uni-stuttgart.de/">SimTech Graduate
+  School</a>, within the <a href="https://www.uni-stuttgart.de/">University of Stuttgart</a>.
+  I worked as a teaching assistent and did research in the area of <em>systems biology</em> 
+  within the <a href="https://www.ist.uni-stuttgart.de/">Institute for Systems Theory and Automatic
+  Control</a>. I obtained the title of <em>Doktor der Ingenieurwissenschaften</em> (Dr.-Ing.), 
+  which is roughly equivalent to a PhD.
 </dd>
 <dt>2016-2020<dt>
-<dd>Postdoctoral researcher at [KTH Royal Institute of
-  Technology](https://www.kth.se/), school of [electrical engineering
-  and computer science](https://www.kth.se/eecs) (EECS), CST
-  department. I continued to work on the topic of systems biology and
+<dd>Postdoctoral researcher at <a href="https://www.kth.se/">KTH Royal Institute of
+  Technology</1>, school of <a href="https://www.kth.se/eecs">Electrical Engineering
+  and Computer Science</a> (EECS), CST department. I continued to work on the topic of systems biology and
   simulations.
 </dd>
 <dt>2020, current</dt>
-<dd>I work as _research specialist_ at [Karolinska
-  Institutet](https://ki.se/), in the [Science for Life
-  Laboratory](https://www.scilifelab.se/), [Solna](922F+59 Solna).
+<dd>I work as <em>research specialist</em> at <a href="https://ki.se/">Karolinska
+  Institutet</a>, in the <a href="https://www.scilifelab.se/">Science for Life
+  Laboratory</a>, Solna (922F+59 Solna).
 </dd>
 </dl>
 
