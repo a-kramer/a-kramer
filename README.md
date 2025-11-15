@@ -65,7 +65,7 @@ student and teaching assistent (TA) at the <em>Institute for Systems Theory and 
 <dd>At KTH I continued to assist in teaching as a postdoc. I contributed to the course <em>Applied Programming and Computer Science for physicists</em></dd>
 </dl>
 
-# Programming Languages
+# 💻 Programming Languages
 
 I have come into contact with many programming languages. In some
 cases, I had to learn a language for:
@@ -76,35 +76,54 @@ cases, I had to learn a language for:
 <li>to finish a task that was given to me by a senior colleague, or advisor.</li>
 </ul>
 
+I have had some contact with matlab throughout the years, but on principle, I never use a licensed piece of software, if it can be avoided in any way.
+
+> [!IMPORTANT] 
+> I would always prefer Free Software to proprietary,
+> secret, facy-pants Software. Free in the sense of the [GNU](https://www.gnu.org/) project,
+> the [GPL](https://www.gnu.org/licenses/gpl-3.0.html), the Free
+> Software Foundation [FSF](https://www.fsf.org/) and
+> [fsfe](https://fsfe.org/)
+
 ## Ancient History
 
 This is a list of such languages that I have come into contact with,
 but didn't use beyond that: [java](https://openjdk.org/),
 [prolog](https://en.wikipedia.org/wiki/Prolog),
 [haskell](https://www.haskell.org/), c++,
-[julia](https://julialang.org/), [perl](https://www.perl.org/) (of
-these languages I enjoyed perl the most).
+[julia](https://julialang.org/), [perl](https://www.perl.org/) 
+
+> [!NOTE]
+> Of these languages I enjoyed perl the most; I worked with it longer than the other entries.
 
 ## Core Utils Type Languages
 
-Other languages are used in small UNIX tools (core utils) and are
-commonly used for _one liners_, and thus aren't always considered
-programming languages. But, these I use often, as one liners or as
-constituents of scripts: [grep](https://www.gnu.org/software/grep/),
+> [!WARNING]
+> These languages are used in domain specific UNIX tools and are
+> commonly used for _one liners_, and thus aren't always considered
+> programming languages.
+
+I use these often, as one liners or otherwise (e.g. as in scripts):
+[grep](https://www.gnu.org/software/grep/),
 [awk](https://www.gnu.org/software/gawk/),
 [sed](https://www.gnu.org/software/sed/),
-[bash](https://www.gnu.org/software/bash/), [POSIX shell](http://gondor.apana.org.au/~herbert/dash/) (all with example
-links, there are several implementations of these tools, and dialects
-of their languages). Perl fits into this category as well.
+[bash](https://www.gnu.org/software/bash/), [POSIX shell](http://gondor.apana.org.au/~herbert/dash/) 
 
-## Scientific Languages
+> [!IMPORTANT]
+> There are several implementations of these tools, and dialects of
+> their respective languages. The provided links are examples of each tool.
+
+> [!TIP]
+> Perl fits into this category as well, it can be used like a core util (with the `-p` flag)
+
+## 📊 Scientific Languages
 
 There are several _scientific languages_, used by researchers
 for simulation, visualization of data (plots in articles), statistical
 analysis, etc. I am fairly proficient in: GNU Octave (similar to
 matlab), and R.
 
-## Favorites
+## 📦 Favorites
 
 The language I have enjoyed working with the most is C, with Makefiles
 as _build system_.
@@ -116,7 +135,7 @@ Of the mentioned languages, these I am most proficient with:
 - `R`
 - `GNU Octave` (and by extension matlab)
 
-## Pretty Text
+## 📄 Pretty Text
 
 There are also _programming-language-adjacent_ systems of writing: `html`
 & `css`, $\LaTeX$, emacs `org-mode`, `markdown` in its various flavors. 
@@ -139,20 +158,27 @@ huge TODO item for me.
 
 # These are Conferenes that I attended
 
-| Year | Place     | Conference                     |           Contribution |
-|-----:|:---------:|:-------------------------------|-----------------------:|
-| 2009 | Liège     | CASYS                          |          short article |
-| 2010 | Dortmund  | DAGStat                        |           presentation |
-| 2010 | Amsterdam | ICCS                           | article in proceedings |
-| 2010 | Yokohama  | MCS                            | article in proceedings |
-| 2011 | Göttingen | SDMBM                          |           presentation |
-| 2012 | Berlin    | MASAMB                         |                 poster |
-| 2013 | Dresden   | SDMBM                          |                 poster |
-| 2017 | STockholm | Nordic Neuroscience            |          participation |
-| 2017 | Glasgow   | 5th Human Brain Project Summit |          participation |
-| 2019 | Berlin    | INCOME2019                     |           presentation |
-| 2021 | virtual   | INCOME2021                     |                 poster |
+| Year | Place     |                     Conference | Contribution           |
+|-----:|:---------:|-------------------------------:|:-----------------------|
+| 2009 | Liège     |                          CASYS | short article          |
+| 2010 | Dortmund  |                        DAGStat | presentation           |
+| 2010 | Amsterdam |                           ICCS | article in proceedings |
+| 2010 | Yokohama  |                            MCS | article in proceedings |
+| 2011 | Göttingen |                          SDMBM | presentation           |
+| 2012 | Berlin    |                         MASAMB | poster                 |
+| 2013 | Dresden   |                          SDMBM | poster                 |
+| 2017 | STockholm |            Nordic Neuroscience | (participation)        |
+| 2017 | Glasgow   | 5th Human Brain Project Summit | (participation)        |
+| 2019 | Berlin    |                     INCOME2019 | presentation           |
+| 2021 | virtual   |                     INCOME2021 | poster                 |
 
+I have also taken part in many SeRC annual meetings, sometimes as a
+member, sometimes as one of the organizers.
+
+# Publications
+
+On [orcid](https://orcid.org/0000-0002-3828-6978), you'll find a list
+of my publications.
 
 <!--
 ## Hi there 👋
