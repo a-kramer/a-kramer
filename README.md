@@ -67,84 +67,24 @@ student and teaching assistent (TA) at the <em>Institute for Systems Theory and 
 
 # 💻 Programming Languages
 
-I have come into contact with many programming languages. In some
-cases, I had to learn a language for:
-<ul>
-<li>a specific course at university,</li>
-<li>for a specific project started by another researcher,</li>
-<li>as part of a summer school,</li>
-<li>to finish a task that was given to me by a senior colleague, or advisor.</li>
-</ul>
-
-I have had some contact with matlab throughout the years, but on principle, I never use a licensed piece of software, if it can be avoided in any way.
-
-> [!IMPORTANT] 
-> I would always prefer Free Software to proprietary,
-> secret, facy-pants Software. Free in the sense of the [GNU](https://www.gnu.org/) project,
-> the [GPL](https://www.gnu.org/licenses/gpl-3.0.html), the Free
-> Software Foundation [FSF](https://www.fsf.org/) and
-> [fsfe](https://fsfe.org/)
-
-## Ancient History
-
-This is a list of such languages that I have come into contact with,
-but didn't use beyond that: [java](https://openjdk.org/),
-[prolog](https://en.wikipedia.org/wiki/Prolog),
-[haskell](https://www.haskell.org/), c++,
-[julia](https://julialang.org/), [perl](https://www.perl.org/) 
-
-> [!NOTE]
-> Of these languages I enjoyed perl the most; I worked with it longer than the other entries.
-
-## Core Utils Type Languages
-
-> [!WARNING]
-> These languages are used in domain specific UNIX tools and are
-> commonly used for _one liners_, and thus aren't always considered
-> programming languages.
-
-I use these often, as one liners or otherwise (e.g. as in scripts):
-[grep](https://www.gnu.org/software/grep/),
-[awk](https://www.gnu.org/software/gawk/),
-[sed](https://www.gnu.org/software/sed/),
-[bash](https://www.gnu.org/software/bash/), [POSIX shell](http://gondor.apana.org.au/~herbert/dash/) 
-
-> [!IMPORTANT]
-> There are several implementations of these tools, and dialects of
-> their respective languages. The provided links are examples of each tool.
-
-> [!TIP]
-> Perl fits into this category as well, it can be used like a core util (with the `-p` flag)
-
-## 📊 Scientific Languages
-
-There are several _scientific languages_, used by researchers
-for simulation, visualization of data (plots in articles), statistical
-analysis, etc. I am fairly proficient in: GNU Octave (similar to
-matlab), and R.
-
-## 📦 Favorites
-
 The language I have enjoyed working with the most is C, with Makefiles
-as _build system_.
+as _build system_. No cmake, no autotools.
 
-Of the mentioned languages, these I am most proficient with:
+I am most proficient with:
 
 - `C` and `Makefile` (mostly GNU Make)
 - `bash`, any POSIX shell and all of the utilities asociated with shell scripting
 - `R`
 - `GNU Octave` (and by extension matlab)
 
-## 📄 Pretty Text
+Here are more details about programming languages: [programming languages](./programming-languages.md)
 
-There are also _programming-language-adjacent_ systems of writing: `html`
-& `css`, $\LaTeX$, emacs `org-mode`, `markdown` in its various flavors. 
+> [!NOTE]
+> I strongly prefer Free Software over anything proprietary.
+> I oppose software patents.
+> I like frugality and minimalism in software.
 
-Of these I enjoy LaTeX the most.
-
-I am a fan of regular expressions, including the `(rx  )` variant in emacs.
-
-# Human Languages
+# 💬 Human Languages
 
 I speak these languages:
 
@@ -175,7 +115,7 @@ huge TODO item for me.
 I have also taken part in many SeRC annual meetings, sometimes as a
 member, sometimes as one of the organizers.
 
-# Publications
+# 📑 Publications
 
 On [orcid](https://orcid.org/0000-0002-3828-6978), you'll find a list
 of my publications.
