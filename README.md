@@ -12,7 +12,7 @@
   Science Campus is in Berlin-Adlershof (CGMH+4V Berlin, Germany). 
   There I obtained my <em>Diploma</em> (grade: <em>good</em>).
 </dd>
-<dt>2009-2020</dt>
+<dt>2009-2016</dt>
 <dd>Doctoral studies at the <a href="https://www.simtech.uni-stuttgart.de/">SimTech Graduate
   School</a>, within the <a href="https://www.uni-stuttgart.de/">University of Stuttgart</a>.
   I worked as a teaching assistent and did research in the area of <em>systems biology</em> 
@@ -40,7 +40,7 @@ These are some of the tasks, duties, and projects I was involved in:
 <dl>
 <dt>2007–2009</dt>
 <dd>During my studies at Humboldt University, I was a <em>student-assistent</em> at the <a href="https://www.zib.de/">Konrad Zuse Institute</a>, Berlin. I worked in the department for <em>high performance computing</em>.
-My tasks included scripting, testing of software, and hardware setups. One example is a Gnetoo GNU/Linux
+My tasks included scripting, testing of software, and hardware setups. One example is a Gentoo GNU/Linux
 machine that converts incoming email to text messages (SMS) to inform staff of error mesages from the compute cluster (while not at their desks).
 This involved Perl and Bash scripting as well as procmail configuration.
 </dd>
